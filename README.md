@@ -2,4 +2,6 @@
 py_成语接龙
 
 基于itchat做的微信成语接龙机器人
+运行：Itchat_main.py
+
 @RobinLin
